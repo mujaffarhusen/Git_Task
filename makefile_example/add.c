@@ -1,6 +1,6 @@
 #include"header.h"
-void add(int a, int b)
+void add(int x, int y)
 {
- 	printf("addition of number %d and %d is %d\n",a,b,a+b);
+ 	printf("addition of number %d and %d is %d\n",x,y,x+y);
 
 }

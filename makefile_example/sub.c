@@ -1,7 +1,7 @@
 #include"header.h"
-void sub(int a, int b)
+void sub(int c, int d)
 {
 
-	printf("Substraction of number %d and %d is %d\n",a,b,a-b);
+	printf("Substraction of number %d and %d is %d\n",c,d,c-d);
 
 }
